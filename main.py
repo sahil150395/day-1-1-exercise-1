@@ -9,3 +9,6 @@ print("Hello World!\nHello World!\nHello World!")
 
 #string concatenation
 print("Hello" + " " +"Sahil")
+
+#input function
+print("Hello " + input("Enter your name: "))
